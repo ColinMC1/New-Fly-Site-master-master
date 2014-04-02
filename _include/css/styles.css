@@ -9014,6 +9014,9 @@ nav#menu #menu-nav li a {
   padding: 20px 0;
   text-align: center; }
 
+.fancybox-close:hover {
+  background-color: #30b9d2; }
+
 @media (min-width: 768px) and (max-width: 979px) {
   .work-nav #filters li a {
     margin: 5px 0 5px 0; }

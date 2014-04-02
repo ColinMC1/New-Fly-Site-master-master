@@ -124,6 +124,10 @@ nav#menu #menu-nav li a {
 } 
 
 #navigation-mobile li a {
-		padding: 20px 0;
-		text-align: center;
-	}
+	padding: 20px 0;
+	text-align: center;
+}
+
+.fancybox-close:hover {
+	background-color: #30b9d2;
+}
